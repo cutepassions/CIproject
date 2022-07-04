@@ -12,6 +12,6 @@
 - XSS 및 CSRF 공격 방지
 
 소요기간 : 1개월   
-프로젝트 결과 : PHP의 웹 프레임워크인 CodeEgnighter와 부트스트랩을 활용하여 게시판 구축   
+프로젝트 결과 : PHP의 웹 프레임워크인 CodeEgnighter와 부트스트랩을 활용하여 채용 공고 게시판 구축   
 완성된 사이트 : https://www.jbu.co.kr/CIproject/   
 참고 자료 : http://bootstrapk.com/, https://getbootstrap.kr/
