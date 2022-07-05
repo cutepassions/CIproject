@@ -1,4 +1,4 @@
-# CIproject
+# CIproject (취업 공고 게시판)
 ## 프로젝트 개요
 ### 목표
 - PHP의 웹 프레임워크인 CodeEgnighter를 활용하여 게시판 구축
