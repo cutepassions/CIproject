@@ -13,7 +13,8 @@
 ### 소요기간
 - 1개월 (2021.09 ~ 2021.10) 
 ### 완성된 사이트
-- https://www.jbu.co.kr/CIproject/   
+- https://www.jbu.co.kr/CIproject/
+![image](https://user-images.githubusercontent.com/105566077/202001520-bc17db3b-61ff-4f50-b7bd-97f960e0f037.png)   
 ### 참고 자료
 - http://bootstrapk.com/
 - https://getbootstrap.kr/
